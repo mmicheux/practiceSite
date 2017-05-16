@@ -1,0 +1,11 @@
+/*
+Theme Name:   2017 Child Theme
+Theme URI:    www.wordpress.org
+Description:  A Twenty Seventeen child theme
+Author:       Molly
+Author URI:   http://www.mollyunderwood.com
+Template:     twentyseventeen
+Version:      1.0.0
+*/
+
+@import url("../twentyseventeen/style.css");
